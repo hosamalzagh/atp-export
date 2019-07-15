@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a55e32d8-b8ae-43c1-9aa8-4515d223840a" name="atp-export.com" url="http://atp-export.com/">
+        <fileTransfer host="atp-export.com" port="220" rootFolder="/home/atpexport/laravel" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="220" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
